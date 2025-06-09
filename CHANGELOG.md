@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Devangi4121/newVersioning/compare/v1.1.0...v1.2.0) (2025-06-09)
+
+
+### Features
+
+* remove commented code changes ([0ab838d](https://github.com/Devangi4121/newVersioning/commit/0ab838d969dcb1b819960d975d67ada101a68a8f))
+
 # [1.1.0](https://github.com/Devangi4121/newVersioning/compare/v1.0.1...v1.1.0) (2025-06-09)
 
 
