@@ -65,7 +65,7 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
             const Text('You have pushed the button this many times:'),
             Text(
-              '$_counter Updated',
+              '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
           ],
@@ -73,7 +73,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: _incrementCounter,
-        tooltip: 'Increment',
+        tooltip: 'DD',
         child: const Icon(Icons.add),
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
