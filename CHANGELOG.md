@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Devangi4121/newVersioning/compare/v1.0.1...v1.1.0) (2025-06-09)
+
+
+### Features
+
+* Add semantic pull request file ([c901bcc](https://github.com/Devangi4121/newVersioning/commit/c901bcce4d6ffb6ee5015678c87349223d05f867))
+
 ## [1.0.1](https://github.com/Devangi4121/newVersioning/compare/v1.0.0...v1.0.1) (2025-06-09)
 
 
