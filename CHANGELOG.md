@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Devangi4121/newVersioning/compare/v1.0.0...v1.0.1) (2025-06-09)
+
+
+### Bug Fixes
+
+* changes files ([b7810c3](https://github.com/Devangi4121/newVersioning/commit/b7810c3fb3cf949267197beec3e6ca871f229484))
+
 # 1.0.0 (2025-06-09)
 
 
