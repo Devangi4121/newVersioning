@@ -1,3 +1,16 @@
+# [1.3.0](https://github.com/Devangi4121/newVersioning/compare/v1.2.0...v1.3.0) (2025-06-09)
+
+
+### Bug Fixes
+
+* changes done ([d3450c2](https://github.com/Devangi4121/newVersioning/commit/d3450c2227aa54cf900dc52b2d0a91d8760e03e4))
+
+
+### Features
+
+* Add new file of update pubspec version js file ([052fda4](https://github.com/Devangi4121/newVersioning/commit/052fda4a67578a14374270b291afb549997c06f9))
+* add new package into package json ([7d1fc3d](https://github.com/Devangi4121/newVersioning/commit/7d1fc3d5e464d29c3f61bfaae1b59e4bb8cd9149))
+
 # [1.2.0](https://github.com/Devangi4121/newVersioning/compare/v1.1.0...v1.2.0) (2025-06-09)
 
 
