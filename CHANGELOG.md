@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/Devangi4121/newVersioning/compare/v1.3.0...v1.4.0) (2025-06-09)
+
+
+### Features
+
+* changes into releaserc json file ([a8a67f2](https://github.com/Devangi4121/newVersioning/commit/a8a67f27d9961f76fa668b727f865599dd3a24e8))
+
 # [1.3.0](https://github.com/Devangi4121/newVersioning/compare/v1.2.0...v1.3.0) (2025-06-09)
 
 
