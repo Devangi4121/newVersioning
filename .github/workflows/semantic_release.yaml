@@ -18,18 +18,18 @@ jobs:
         with:
           flutter-version: '3.29.3'
 
-      - name: Install dependencies
+      - name: Install Flutter dependencies
         run: flutter pub get
 
-      - name: Semantic Release
-        uses: cycjimmy/semantic-release-action@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
         with:
-          semantic_version: 19.0.5
-          extra_plugins: |
-                      @semantic-release/commit-analyzer
-                      @semantic-release/release-notes-generator
-                      @semantic-release/changelog
-                      @semantic-release/github
-                      @semantic-release/git
+          node-version: '20'
+
+      - name: Install semantic-release and plugins
+        run: npm ci
+
+      - name: Run Semantic Release
+        run: npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
