@@ -10,6 +10,7 @@ module.exports = {
       {
         assets: ['pubspec.yaml', 'CHANGELOG.md'],
         message: 'chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}'
+        prepareCmd: `node scripts/update_pubspec_version.js \${nextRelease.version}`
       }
     ]
   ]
