@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout code
         uses: actions/checkout@v4
 
       - name: Set up Flutter
@@ -21,15 +21,15 @@ jobs:
       - name: Install Flutter dependencies
         run: flutter pub get
 
-      - name: Set up Node.js
+      - name: Set up Node.js for semantic-release
         uses: actions/setup-node@v3
         with:
           node-version: '20'
 
-      - name: Install semantic-release and plugins
-        run: npm ci
+      - name: Install semantic-release dependencies
+        run: npm install
 
-      - name: Run Semantic Release
+      - name: Run semantic-release
         run: npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
