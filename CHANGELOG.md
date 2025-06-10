@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/Devangi4121/newVersioning/compare/v1.4.0...v1.5.0) (2025-06-10)
+
+
+### Features
+
+* changes done ([6c117d9](https://github.com/Devangi4121/newVersioning/commit/6c117d9489fbf8b6ab7a810952ae1e1259696264))
+
 # [1.4.0](https://github.com/Devangi4121/newVersioning/compare/v1.3.0...v1.4.0) (2025-06-09)
 
 
