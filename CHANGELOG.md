@@ -1,3 +1,17 @@
+# [1.6.0](https://github.com/Devangi4121/newVersioning/compare/v1.5.0...v1.6.0) (2025-06-10)
+
+
+### Bug Fixes
+
+* remove commented code changes ([0eca4a0](https://github.com/Devangi4121/newVersioning/commit/0eca4a0c52b8248669926d1364e3bcf068c6dbfb))
+* remove commented code changes ([cb23525](https://github.com/Devangi4121/newVersioning/commit/cb2352537a617fed1ed2141051dd2d33cd0f0805))
+* Remove Extra code ([3c06085](https://github.com/Devangi4121/newVersioning/commit/3c060858c6d7528b076ab0f8dc392c8457b6c179))
+
+
+### Features
+
+* change the flutter version ([2f93ac2](https://github.com/Devangi4121/newVersioning/commit/2f93ac238d636ae2d337a0e5176ee34fdd81cbd9))
+
 # [1.5.0](https://github.com/Devangi4121/newVersioning/compare/v1.4.0...v1.5.0) (2025-06-10)
 
 
