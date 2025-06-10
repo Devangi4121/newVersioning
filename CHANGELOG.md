@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/Devangi4121/newVersioning/compare/v1.6.0...v1.7.0) (2025-06-10)
+
+
+### Features
+
+* change extra code ([58f4639](https://github.com/Devangi4121/newVersioning/commit/58f463928a6747d6a8cb01e4e6227f2b2a567005))
+
 # [1.6.0](https://github.com/Devangi4121/newVersioning/compare/v1.5.0...v1.6.0) (2025-06-10)
 
 
